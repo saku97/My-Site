@@ -24,7 +24,7 @@ font-family: sans-serif;
 }
 
 .contact-tital h2{
-    font-size: 16px; 
+    font-size: 18px; 
 }
 
 form
@@ -42,7 +42,7 @@ form
     border-bottom: 1px solid gray;
     color: darkgray;
     font-size:18px;
-    margin-bottom:16px; 
+    margin-bottom:20px; 
 }
 
 input
